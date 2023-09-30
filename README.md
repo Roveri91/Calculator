@@ -10,9 +10,9 @@ EasyCalc is a straightforward and user-friendly calculator app designed to simpl
 📱SCREENSHOT
 ---
 
-![Screenshot 2023-09-30 133421](https://github.com/Roveri91/Calculator/assets/105217392/586f6c96-b321-4b72-a7dd-6986b24eef56)
-![Screenshot 2023-09-30 133348](https://github.com/Roveri91/Calculator/assets/105217392/48c6c0db-a26e-4299-89dd-59a0bf7e5db3)
 ![Screenshot 2023-09-30 133341](https://github.com/Roveri91/Calculator/assets/105217392/855a56a9-05e0-47ff-a4d6-09e440f1f70e)
+![Screenshot 2023-09-30 133348](https://github.com/Roveri91/Calculator/assets/105217392/48c6c0db-a26e-4299-89dd-59a0bf7e5db3)
+![Screenshot 2023-09-30 133421](https://github.com/Roveri91/Calculator/assets/105217392/586f6c96-b321-4b72-a7dd-6986b24eef56)
 
 ---
 
